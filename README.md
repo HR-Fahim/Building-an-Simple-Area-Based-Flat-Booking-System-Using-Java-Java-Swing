@@ -1,5 +1,5 @@
 # Program Features
-In this program, one can sign up to create a personal account and also log in using that information. After the login step, one can choose his/her preferred area. Next, he/she can choose his/her desired flat (one can choose one flat at a time) and book it by confirming it. The booked flat can not book someone else again. The program gets flat data from internal hardware located file named `common.txt` & `common1.txt` file (located in: `Java Project/FamilySelection`) and uses the `user.txt` file (located in : `Java Project/User txt`) to store user information. <br/>
+In this program, one can sign up to create a personal account and also log in using that information. After the login step, one can choose his/her preferred area. Next, he/she can choose his/her desired flat (one can choose one flat at a time) and book it by confirming it. The booked flat can not book someone else again. The program gets flat data from internal hardware located file named `common.txt` & `common1.txt` file and uses the `user.txt` file to store user information. <br/>
 > A demo video of this project has been attached with the project files.<br/>
 
 <sub> ****P.S.*** It was a part of project from CSE215 course offered by CSE, NSU (North South University).*<sub/>
@@ -10,6 +10,8 @@ In this program, one can sign up to create a personal account and also log in us
 - Extract `Java Project.rar` & put the folder into `C:\` drive.
 - Open the `Flat_Booking_Management` folder using a Java Compiler. Then, run that `Login.java` file `Flat_Booking_Management/src` folder (this will open the `Login` window).
 - Next, just follow the opened window commands that it!
+- `common.txt` & `common1.txt` file located in : `Java Project/FamilySelection/`folder.
+- `user.txt` file located in : `Java Project/User txt/`folder.
 # Caution
 There are some instructions to follow:
 - Do not remove any files from the `Java Project` folder.
