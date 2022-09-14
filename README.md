@@ -1,5 +1,5 @@
 # About 
-A demo Management System for booking flats based on the area has been made here. There have been used `Java Swing` & also `Java` for coding. The main purpose of making it was to describe how a simple Management System can be built using only `java` & `Java Swing`.<br/>
+A demo Management System for booking flats based on the area has been made here. There have been used `Java Swing` & also `Java` for coding. The main purpose of making it was to describe how a simple Management System can be built using only `java` & `Java Swing`. A demo video of this project has been attached with the project files.<br/>
 
 <sub> ****P.S.*** It was a part of project from CSE215 course offered by CSE, NSU (North South University).*<sub/>
 # Program Features
