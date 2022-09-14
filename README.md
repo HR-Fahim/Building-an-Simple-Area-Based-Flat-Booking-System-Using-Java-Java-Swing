@@ -8,7 +8,7 @@ In this program, one can sign up to create a personal account and also log in us
 - [Eclipse Version 2020](https://www.techspot.com/downloads/7143-eclipse-ide.html) (Recommended)
 # Installation
 - Extract `Java Project.rar` & put the folder into `C:\` drive.
-- Open the `Flat_Booking_Management` folder using a Java Compiler. Then, run that `Login.java` file from the folder (this will open the `Login` window).
+- Open the `Flat_Booking_Management` folder using a Java Compiler. Then, run that `Login.java` file `Flat_Booking_Management/src` folder (this will open the `Login` window).
 - Next, just follow the opened window commands that it!
 # Caution
 There are some instructions to follow:
