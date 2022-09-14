@@ -1,9 +1,7 @@
-# About 
-A demo Management System for booking flats based on the area has been made here. There have been used `Java Swing` & also `Java` for coding. The main purpose of making it was to describe how a simple Management System can be built using only `java` & `Java Swing`. A demo video of this project has been attached with the project files.<br/>
+# Program Features
+In this program, one can sign up to create a personal account and also log in using that information. After the login step, one can choose his/her preferred area. Next, he/she can choose his/her desired flat (one can choose one flat at a time) and book it by confirming it. The booked flat can not book someone else again. The program gets flat data from internal hardware located file named `common.txt` & `common1.txt` file and uses the `user.txt` file to store user information. A demo video of this project has been attached with the project files.<br/>
 
 <sub> ****P.S.*** It was a part of project from CSE215 course offered by CSE, NSU (North South University).*<sub/>
-# Program Features
-In this program, one can sign up to create a personal account and also log in using that information. After the login step, one can choose his/her preferred area. Next, he/she can choose his/her desired flat (one can choose one flat at a time) and book it by confirming it. The booked flat can not book someone else again. The program gets flat data from internal hardware located file named `common.txt` & `common1.txt` file and uses the `user.txt` file to store user information.
 # Requirements
 - [JDK 14.0.1](https://www.malavida.com/en/soft/java-jdk/)
 - [Eclipse Version 2020](https://www.techspot.com/downloads/7143-eclipse-ide.html) (Recommended)
