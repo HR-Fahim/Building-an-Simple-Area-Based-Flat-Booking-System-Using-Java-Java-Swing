@@ -17,7 +17,7 @@ There are some instructions to follow:
 - Do not remove `null null` from `user.txt`.
 # Resetting
 - If want to reset the program then just remove everything from the `user.txt` file except the `null null` and put the cursor at the next line and save it.
-- Remove everything from that `common.txt` file and enter again `FLT1` to `10` in the column. Also, do the same to the `common1.txt` file and enter `FLT1.1` to `10.1` in the column again.
+- Remove everything from that `common.txt` file and enter again `FLT1` to `10` by column. Also, do the same to the `common1.txt` file and enter `FLT1.1` to `10.1` by column again.
 # Common Bug
 After filling up with the correct username & password in the Login window, if it shows the `Warning` window again & again; simply reset the `user.txt` file and set the cursor at the next line, also reset the other `.txt` files as well if you want.
 # Support[<sup> @github/support <sup/>](https://support.github.com/)
