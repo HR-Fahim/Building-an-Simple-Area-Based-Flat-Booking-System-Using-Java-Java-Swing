@@ -1,4 +1,4 @@
-# Flat Booking Management Program
+# Flat Booking and Management Program
 
 This program allows users to sign up, create a personal account, and log in using their credentials. Once logged in, users can choose their preferred area and select a desired flat (one at a time) for booking. The program retrieves flat data from the internal hardware located files named `common.txt` and `common1.txt`, and it uses the `user.txt` file to store user information.
 
